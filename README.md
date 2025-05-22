@@ -1,6 +1,6 @@
-<p align="center>
-  <img src="./result.png">
+<p align="center">
+  ![Result 1](result.png)
 </p>
-<p align="center>
-  <img src="./result2.png">
+<p align="center">
+  ![Result 2](result2.png)
 </p>
