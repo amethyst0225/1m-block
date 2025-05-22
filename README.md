@@ -1,6 +1,2 @@
-<p align="center">
-  ![Result 1](result.png)
-</p>
-<p align="center">
-  ![Result 2](result2.png)
-</p>
+![Result 1](https://raw.githubusercontent.com/amethyst0225/1m-block/main/result.png)
+![Result 2](https://raw.githubusercontent.com/amethyst0225/1m-block/main/result2.png)
