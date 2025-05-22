@@ -1,6 +1,6 @@
 <p align="center>
-  <img src="https://github.com/amethyst0225/1m-block/blob/main/result">
+  <img src="./result">
 </p>
 <p align="center>
-  <img src="https://github.com/amethyst0225/1m-block/blob/main/result2">
+  <img src="./result2">
 </p>
